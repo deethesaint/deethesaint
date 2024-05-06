@@ -31,10 +31,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deethesaint&theme=react" alt="deethesaint"/>
   </a>
 </p>
-
 <a> 
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=8&layout=compact&theme=react" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/deethesaint"><img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/deethesaint"><img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=6&layout=compact&theme=react" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <p align="center">
