@@ -31,7 +31,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deethesaint&theme=react&" alt="deethesaint"/>
   </a>
 </p>
-<div width="100%" align="center">
+<div width="100%" align="center" style="display:inline">
   <a href="https://github.com/deethesaint" width="45%">
     <img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react&hide_border=true" height="200px"/>
   </a>
