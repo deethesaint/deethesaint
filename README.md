@@ -31,10 +31,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deethesaint&theme=react&" alt="deethesaint"/>
   </a>
 </p>
-<p align="center> 
-  <a href="https://github.com/deethesaint"><img alt="deethesaint" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react&hide_border=true" height="200px" width="48%"/></a>
-  <a href="https://github.com/deethesaint"><img alt="deethesaint" align="center"  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=8&layout=compact&theme=react&hide_border=true" height="200px" width="48%"/></a>
-</p>
+<a href="https://github.com/deethesaint">
+  <img alt="deethesaint" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react&hide_border=true" height="200px" width="48%"/>
+</a>
+<a href="https://github.com/deethesaint">
+  <img alt="deethesaint" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=8&layout=compact&theme=react&hide_border=true" height="200px" width="48%"/>
+</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deethesaint&theme=react" alt="deethesaint">
 </p>
