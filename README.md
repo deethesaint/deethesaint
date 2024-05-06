@@ -32,11 +32,11 @@
   </a>
 </p>
 <div width="100%" align="center">
-  <a href="https://github.com/deethesaint" width="49%">
-    <img alt="deethesaint" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react&hide_border=true" height="200px"/>
+  <a href="https://github.com/deethesaint" width="45%">
+    <img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react&hide_border=true" height="200px"/>
   </a>
-  <a href="https://github.com/deethesaint" width="49%">
-    <img alt="deethesaint" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=8&layout=compact&theme=react&hide_border=true" height="200px"/>
+  <a href="https://github.com/deethesaint" width="45%">
+    <img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=8&layout=compact&theme=react&hide_border=true" height="200px"/>
   </a>
 </div>
 <br/>
