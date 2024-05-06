@@ -31,11 +31,11 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deethesaint&theme=react" alt="deethesaint"/>
   </a>
 </p>
-<a> 
-  <a href="https://github.com/deethesaint"><img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react" height="192px" width="48%"/></a>
+<p align="center"> 
+  <a href="https://github.com/deethesaint"><img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react" height="222px" width="48%"/></a>
   <a href="https://github.com/deethesaint"><img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=6&layout=compact&theme=react" height="192px" width="48%"/></a>
   <br/>
-</a>
+</a align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deethesaint&theme=react" alt="deethesaint">
 </p>
