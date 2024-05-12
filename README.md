@@ -1,7 +1,6 @@
 ## about me
 <p>:star2: chào, tui tên là Dương</p>
 <p>:point_right: sinh viên IT K12 (software technology) trường ĐH Công Thương TP. Hồ Chí Minh
-<p>:dog: không thích ăn thịt chó</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deethesaint&label=Profile%20views&color=0e75b6&style=flat" alt="deethesaint" /> </p>
 
 ## socials
