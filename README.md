@@ -2,7 +2,7 @@
 <p>:star2: chào, tui tên là Dương</p>
 <p>:point_right: sinh viên IT K12 (software technology) trường ĐH Công Thương TP. Hồ Chí Minh</p>
 <p>:book: Đang học: Laravel, Java Socket, Java Multi-threading (Netty)</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deethesaint&label=Profile%20views&color=0e75b6&style=flat" alt="deethesaint" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deethesaint&label=Profile%20views&color=1EC2DB&style=for-the-badge&abbreviated=true" alt="deethesaint" /> </p>
 
 ## socials
 <p align="left">
@@ -18,7 +18,7 @@
 ## tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,go,py,java,cpp,php,js,html,css,sass,laravel,less,heroku,firebase,mongodb,sqlite,mysql,jquery,nextjs,symfony,postgres,react,tailwind,bootstrap,notion,ps,figma,git,vscode,androidstudio,flutter,eclipse" height="105px">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,py,java,php,js,html,css,sass,laravel,less,heroku,vercel,firebase,mongodb,sqlite,mysql,redis,jquery,nextjs,npm,symfony,postgres,react,tailwind,bootstrap,notion,ps,figma,git,vscode,androidstudio,flutter,eclipse,visualstudio,windows,redis,unity" height="105px">
 </p>
 
 ## github stats
