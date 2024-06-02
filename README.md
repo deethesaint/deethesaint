@@ -33,9 +33,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deethesaint&theme=react&" alt="deethesaint"/>
   </a>
 </p>
-<div width="100%" align="center" style="display:inline">
+<div width="100%" align="center">
   <a href="https://github.com/deethesaint">
-    <img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deethesaint&show_icons=true&count_private=true&theme=react&hide_border=true" width="49%" height="200px"/>
+    <img alt="deethesaint" src="https://github-readme-stats.vercel.app/api?username=deethesaint&theme=react&hide_border=true" width="49%" height="200px"/>
   </a>
   <a href="https://github.com/deethesaint">
     <img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=8&layout=compact&theme=react&hide_border=true" width="49%" height="200px"/>
