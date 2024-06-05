@@ -1,7 +1,7 @@
 ## about me
 <p>:star2: chào, tui tên là Dương</p>
 <p>:point_right: sinh viên IT K12 (software technology) trường ĐH Công Thương TP. Hồ Chí Minh</p>
-<p>:book: Đang học: Laravel, Java Socket, Java Multi-threading (Netty)</p>
+<!-- <p>:book: Đang học: Laravel, Java Socket, Java Multi-threading (Netty)</p> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deethesaint&label=Profile%20views&color=1EC2DB&style=for-the-badge&abbreviated=true" alt="deethesaint" /> </p> -->
 
 ## socials
