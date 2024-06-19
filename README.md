@@ -12,13 +12,13 @@
 <a href="https://www.hackerrank.com/vtduong0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vtduong0912" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dexthenext" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dexthenext" height="30" width="40" /></a>
 <a href="https://discord.gg/5KbZktwZqy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vtduong" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/profiles/76561199560297622/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="methamphetamine" height="30" width="30" /></a>
+<a href="https://steamcommunity.com/profiles/76561199560297622/" target="blank"><img align="center" src="assets/steam.png" alt="methamphetamine" height="30" width="30" /></a>
 </p>
 
 ## tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,py,java,php,js,html,css,sass,laravel,less,heroku,vercel,firebase,mongodb,sqlite,mysql,redis,jquery,nextjs,npm,symfony,postgres,react,tailwind,bootstrap,notion,ps,figma,git,vscode,androidstudio,flutter,eclipse,visualstudio,windows,redis,unity" height="105px">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,py,java,php,js,html,css,sass,laravel,less,heroku,vercel,firebase,mongodb,sqlite,mysql,redis,jquery,nextjs,npm,symfony,postgres,vue,react,electron,tailwind,bootstrap,notion,ps,figma,git,vscode,androidstudio,flutter,eclipse,visualstudio,windows,redis,unity" height="105px">
 </p>
 
 ## github stats
