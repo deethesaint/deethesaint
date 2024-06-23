@@ -11,6 +11,8 @@
 <a href="https://dev.to/deethesaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="deethesaint" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18998302/professor-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="professor-d" height="30" width="40" /></a>
 </p>
+<br>
+<p>My gists: https://gist.github.com/deethesaint</p> 
 
 ## tech stack
 
