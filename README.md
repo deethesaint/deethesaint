@@ -22,8 +22,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=deethesaint&theme=react&hide_border=true" alt="deethesaint"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/deethesaint">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deethesaint&theme=react&hide_border=true" alt="deethesaint">
-  </a>
-</p>
