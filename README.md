@@ -1,4 +1,3 @@
-<!--
 
 ## about me
 <p>:star2: teen laf Duongw</p>
@@ -16,13 +15,7 @@
 <br>
 <p>My gists: https://gist.github.com/deethesaint</p> 
 
-## tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,go,py,java,php,js,html,css,sass,laravel,less,heroku,vercel,firebase,mongodb,sqlite,mysql,redis,jquery,nextjs,npm,symfony,postgres,vue,react,electron,tailwind,bootstrap,notion,ps,figma,git,vscode,androidstudio,flutter,eclipse,visualstudio,windows,redis,unity" height="105px">
-</p>
-
-## github stats
+## stats
 
 <p align="center">
   <a href="https://github.com/deethesaint">
@@ -31,22 +24,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/deethesaint">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deethesaint&theme=react&" alt="deethesaint"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deethesaint&theme=react&hide_border=true" alt="deethesaint">
   </a>
 </p>
-<div width="100%" align="center">
-  <a href="https://github.com/deethesaint">
-    <img alt="deethesaint" src="https://github-readme-stats.vercel.app/api?username=deethesaint&theme=react&hide_border=true" width="49%" height="200px"/>
-  </a>
-  <a href="https://github.com/deethesaint">
-    <img alt="deethesaint" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deethesaint&langs_count=8&layout=compact&theme=react&hide_border=true" width="49%" height="200px"/>
-  </a>
-</div>
-<br/>
-<p align="center">
-  <a href="https://github.com/deethesaint">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deethesaint&theme=react" alt="deethesaint">
-  </a>
-</p>
-
--->
