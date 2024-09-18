@@ -1,6 +1,6 @@
 
 ## about me
-<p>:star2: teen laf Duongw</p>
+<p>:point_right: :broken_heart: :( </p>
 
 ## socials
 <p align="left">
